@@ -1,4 +1,4 @@
-# Smart Bookelet Empowered by Augmented Reality
+# Smart Booklet Empowered by Augmented Reality
 * Tuğçe ÇOBAN 201511015
 * Beyza KARAGÖZ 201511036
 * Edacan SEYREK 201511051
