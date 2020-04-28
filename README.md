@@ -8,7 +8,7 @@ Our project aimed to promote our school more effectively. We can attract the att
 #### **Current Versions;**
 
 SmartBooklet I.<br>
-SmartBooKLetwithAnimastion (soon)<br>
+SmartBooKletwithAnimastion (soon)<br>
 
 Just download the application to run the project, then it is ready to use directly. Follow these steps to download the app.
 
