@@ -18,7 +18,7 @@ Just download the application to run the project, then it is ready to use direct
 **4)** After opening the application, scan the SCAN locations in the catalog to your camera and revive the catalog.<br>
 
 
-![](https://user-images.githubusercontent.com/49069817/80519383-95381d00-8990-11ea-9e98-64f223a225e4.jpeg)
+![](https://user-images.githubusercontent.com/49069817/80519988-800fbe00-8991-11ea-9380-087a73303186.jpeg)
 
 ![](https://user-images.githubusercontent.com/49069817/80517680-1b069900-898e-11ea-8f1b-53c29b7a6a5f.png)
 
