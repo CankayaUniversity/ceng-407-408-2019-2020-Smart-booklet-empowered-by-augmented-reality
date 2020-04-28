@@ -24,10 +24,11 @@ Just download the application to run the project, then it is ready to use direct
 ![](https://user-images.githubusercontent.com/49069817/80520181-b77e6a80-8991-11ea-9e81-57ec62159455.jpeg)<br>
 
 ![](https://user-images.githubusercontent.com/49069817/80520399-0c21e580-8992-11ea-8c1c-66324f548419.jpeg)<br>
+![](https://user-images.githubusercontent.com/49069817/80520844-b3068180-8992-11ea-88ab-9e2fad7fd976.png) <br>
 
 ![](https://user-images.githubusercontent.com/49069817/80520716-82bee300-8992-11ea-8378-485fe391ca79.png)<br>
 
 
-![](https://user-images.githubusercontent.com/49069817/80517488-d5e26700-898d-11ea-9a3b-ab4fbd0059ea.png)<br>
+
 
 
