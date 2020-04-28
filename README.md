@@ -14,12 +14,12 @@ Our project aimed to promote our school more effectively. We can attract the att
 
 #### **Current Versions;**
 
-SmartBooklet I.
-SmartBooKLetwithAnimastion (soon)
+SmartBooklet I.<br>
+SmartBooKLetwithAnimastion (soon)<br>
 
 Just download the application to run the project, then it is ready to use directly. Follow these steps to download the app.
 
-**1)** Login to your store account according to the device you use.
-**2)** Find CankayaSmartBooklet application and press the download button.
-**3)** Open the app after downloading it to your phone and allow camera access.
-**4)** After opening the application, scan the SCAN locations in the catalog to your camera and revive the catalog.
+**1)** Login to your store account according to the device you use.<br>
+**2)** Find CankayaSmartBooklet application and press the download button.<br>
+**3)** Open the app after downloading it to your phone and allow camera access.<br>
+**4)** After opening the application, scan the SCAN locations in the catalog to your camera and revive the catalog.<br>
