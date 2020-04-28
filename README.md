@@ -23,7 +23,7 @@ Just download the application to run the project, then it is ready to use direct
 
 ![](https://user-images.githubusercontent.com/49069817/80520181-b77e6a80-8991-11ea-9e81-57ec62159455.jpeg)<br>
 
->[](https://user-images.githubusercontent.com/49069817/80520399-0c21e580-8992-11ea-8c1c-66324f548419.jpeg)<br>
+![](https://user-images.githubusercontent.com/49069817/80520399-0c21e580-8992-11ea-8c1c-66324f548419.jpeg)<br>
 
 ![](https://user-images.githubusercontent.com/49069817/80517680-1b069900-898e-11ea-8f1b-53c29b7a6a5f.png)<br>
 
