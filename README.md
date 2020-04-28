@@ -11,7 +11,7 @@
 
 
 
-## **SMART BOOKLET PROJECT**
+### **SMART BOOKLET PROJECT**
 
 Our project aimed to promote our school more effectively. We can attract the attention of the user masses to a greater extent. We have combined the real catalog system with the virtual environment.
 
